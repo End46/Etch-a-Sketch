@@ -1,0 +1,62 @@
+body{
+    padding: 0;
+}
+
+#contenedor{
+    display: flex;
+    padding: 0;
+    gap: 0;
+    flex-wrap: wrap;
+    border: 2px solid black;
+    box-sizing: border-box;
+    width: 640px;
+    height: 640px;
+}
+
+.cuadricula{
+    flex:auto;
+    border: none;
+    box-sizing:border-box;
+    width: 39px;
+    height: 40px;
+}
+
+#rastro1{
+    opacity: 10%;
+}
+
+#rastro2{
+    opacity: 20%;
+}
+
+#rastro3{
+    opacity: 30%;
+}
+
+#rastro4{
+    opacity: 40%;
+}
+
+#rastro5{
+    opacity: 50%;
+}
+
+#rastro6{
+    opacity: 60%;
+}
+
+#rastro7{
+    opacity: 70%;
+}
+
+#rastro8{
+    opacity: 80%;
+}
+
+#rastro9{
+    opacity: 90%;
+}
+
+#rastro10{
+    opacity: 100%;
+}
