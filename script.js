@@ -5,9 +5,9 @@ for(i=0;i<256;i++){
     cuadricula.classList.add("cuadricula");
     contenedor.appendChild(cuadricula);
     cuadricula.addEventListener("mouseenter",()=>{
-        let red = Math.floor(Math.random()*254)+1;
-        let green = Math.floor(Math.random()*254)+1;
-        let blue = Math.floor(Math.random()*254)+1;
+        let red = Math.floor(Math.random()*255);
+        let green = Math.floor(Math.random()*255);
+        let blue = Math.floor(Math.random()*255);
         cuadricula.style.backgroundColor=`rgb(${red},${green},${blue})`;
     })
     cuadricula.addEventListener("mouseleave",(seleccionado)=>{
