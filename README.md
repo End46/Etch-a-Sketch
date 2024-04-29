@@ -5,4 +5,4 @@ commit 1:
 *añadido colores aleatorios por interacción
 *añadido rastro regenerativo
 commit 2:
-*corregido rgb rastro regenerativo
+*corregido rango del rgb por interacción
