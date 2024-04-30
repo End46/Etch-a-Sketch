@@ -6,3 +6,5 @@ commit 1:
 *añadido rastro regenerativo
 commit 2:
 *corregido rango del rgb por interacción
+commit 3:
+*Agregado boton para cambiar tamaño de la cuadricula
