@@ -22,42 +22,52 @@ body{
 }
 
 #rastro1{
+    filter:brightness(50%);
     opacity: 10%;
 }
 
 #rastro2{
+    filter:brightness(40%);
     opacity: 20%;
 }
 
 #rastro3{
+    filter:brightness(30%);
     opacity: 30%;
 }
 
 #rastro4{
+    filter:brightness(20%);
     opacity: 40%;
 }
 
 #rastro5{
+    filter:brightness(15%);
     opacity: 50%;
 }
 
 #rastro6{
+    filter:brightness(10%);
     opacity: 60%;
 }
 
 #rastro7{
+    filter:brightness(6%);
     opacity: 70%;
 }
 
 #rastro8{
+    filter:brightness(4%);
     opacity: 80%;
 }
 
 #rastro9{
+    filter:brightness(2%);
     opacity: 90%;
 }
 
 #rastro10{
+    filter:brightness(0%);
     opacity: 100%;
 }
 
